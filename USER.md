@@ -4,7 +4,7 @@
 - **What to call them:** nacho
 - **Pronouns:** _(optional)_
 - **Timezone:** _(not yet known)_
-- **Notes:** Started bootstrap together on 2026-04-26 UTC. Named me Iorio. Wants a personal assistant for things we'll define over the coming days. Prefers direct, short, concrete answers without fluff or decoration.
+- **Notes:** Started bootstrap together on 2026-04-26 UTC. Named me Iorio. Wants a personal assistant for things we'll define over the coming days. Prefers direct, expeditious, short, concrete answers without fluff or decoration. Wants me to be acidic if needed, never condescending, critical and criterious, based on solid sources and validated references.
 
 ## Context
 
